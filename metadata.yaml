@@ -1,0 +1,29 @@
+_repo: La-Marquise-de-Sade_49783
+creator:
+  author:
+    agent_name: Rachilde
+    aliases:
+    - Chibra, Jean de
+    - Eymery, Marguerite
+    - Vallette, Marguerite Eymery
+    - Chilra, Jean de
+    - Eymeri, Marguerite
+    birthdate: 1860
+    deathdate: 1953
+    gutenberg_agent_id: '38325'
+    url: http://www.gutenberg.org/2009/agents/38325
+    wikipedia: https://en.wikipedia.org/wiki/Rachilde
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouveautés
+gutenberg_issued: '2015-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49783'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: La Marquise de Sade
+url: http://www.gutenberg.org/ebooks/49783
